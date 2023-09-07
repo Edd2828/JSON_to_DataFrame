@@ -10,6 +10,7 @@ This repository attempts to provide multiple methods to extract JSON Data and co
 Various types of JSON files examples will be provided with different structures for holding data (for example, dictionarys, lists, lists within list etc.)
 Each JSON file will have functions that will extract the data into a Pandas DataFrame table. A unique id column will be given to each row within the DataFrame.
 
-### Repository Contents:
+### Repository Folders:
 
-- Create SimpleOneLayer.py
+- 01SingleLayer: JSON List with Dictionaries
+- 02NestedList: JSON List with Dictionaries with Nested Lists
