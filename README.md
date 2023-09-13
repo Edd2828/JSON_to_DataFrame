@@ -14,3 +14,9 @@ Each JSON file will have functions that will extract the data into a Pandas Data
 
 - 01SingleLayer: JSON List with Dictionaries
 - 02NestedList: JSON List with Dictionaries with Nested Lists
+
+### 00UsefulFunctions:
+
+- Pagination_In_Filename:
+    Saving multiple paginated JSON files with page number included in the name with a fixed number of characters for ordering and later extraction ( must know
+    number of pages in API call beforehand or count them to get total number of pages )
